@@ -6,7 +6,7 @@
 	</title>
 </head>
 <body>
-
+ini adalah badan
 </body>
 </html>
 end.
